@@ -16,4 +16,4 @@ jobs:
           server: ftp.responder.nea.codes
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
-          server-dir: /home/u646275238/domains/responder.nea.codes/public_html/
+          server-dir: /
